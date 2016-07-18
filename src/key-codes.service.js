@@ -7,7 +7,7 @@ angular.module('KeyCodes.Service', [])
 /**
  * Constant definition
  */
-.factory('KeyCodes', function() {
+.factory('$keyCodes', function() {
   return {
 
     //Basic
