@@ -1,12 +1,9 @@
 /**
- * meanie-angular-key-codes - v1.0.2 - 18-6-2016
- * https://github.com/meanie/angular-key-codes
+ * meanie-angular-key-codes * https://github.com/meanie/angular-key-codes
  *
  * Copyright (c) 2016 Adam Buczynski <me@adambuczynski.com>
  * License: MIT
  */
-'use strict';
-
 (function (window, angular, undefined) {
   'use strict';
 
