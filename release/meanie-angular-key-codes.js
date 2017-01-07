@@ -1,7 +1,7 @@
 /**
  * meanie-angular-key-codes * https://github.com/meanie/angular-key-codes
  *
- * Copyright (c) 2016 Adam Reis <adam@reis.nz>
+ * Copyright (c) 2017 Adam Reis <adam@reis.nz>
  * License: MIT
  */
 (function (window, angular, undefined) {
@@ -59,6 +59,9 @@
       EQUALS: 187,
       QUOTE: 222,
       BACK_TICK: 192,
+
+      //Combined character keycode
+      COMBINED: 229,
 
       //Numeric keys (character codes)
       NUMERIC: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
