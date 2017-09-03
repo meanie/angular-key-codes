@@ -1,2 +1,2 @@
-require('./release/meanie-angular-key-codes');
+require('./release/angular-key-codes');
 module.exports = 'KeyCodes.Service';

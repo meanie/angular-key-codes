@@ -1,5 +1,5 @@
 /**
- * meanie-angular-key-codes * https://github.com/meanie/angular-key-codes
+ * @meanie/angular-key-codes * https://github.com/meanie/angular-key-codes
  *
  * Copyright (c) 2017 Adam Reis <adam@reis.nz>
  * License: MIT
