@@ -50,6 +50,7 @@ angular.module('KeyCodes.Service', [])
     EQUALS:     187,
     QUOTE:      222,
     BACK_TICK:  192,
+    AT:         50,
 
     //Combined character keycode
     COMBINED:   229,
@@ -68,8 +69,8 @@ angular.module('KeyCodes.Service', [])
     //Control keys
     CONTROL: [
       8, 9, 12, 13, 27, //backspace, tab, clear, enter, escape
-      35, 36, 45, 46,   //end, home, insert, delete
-      37, 38, 39, 40,   //left, up, right, down
+      35, 36, 45, 46, //end, home, insert, delete
+      37, 38, 39, 40, //left, up, right, down
     ],
 
     /**
